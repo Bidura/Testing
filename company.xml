@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="company.xsl"?>
+<company xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="D:\\html\company.xsd" >
+<employee>
+    <empid>1</empid>
+    <name> Bidura Sarkar</name>
+    <age>78</age>
+    <salary>12000.00</salary>
+    <email>abc@gmail.com</email>
+    <phno>1234567890</phno>
+    <post>IT professional</post>
+    </employee> 
+<employee>
+        <empid>2</empid>
+        <name>Abc Xyz</name>
+        <age>22</age>
+        <salary>120000.00</salary>
+        <email>abc2@gmail.com</email>
+        <phno>1234567899</phno>
+        <post>IT professional</post>
+</employee>
+<employee>
+    <empid>3</empid>
+    <name>AbC Xyz</name>
+    <age>24</age>
+    <salary>125000.00</salary>
+    <email>abc3@gmail.com</email>
+    <phno>1234567897</phno>
+    <post>HR</post>
+</employee>
+
+</company>
